@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+python/logs/
+*.bak
+
+# Modelos de MediaPipe (se descargan, ver README)
+*.task
+
+# PlatformIO
+firmware/.pio/
+firmware/.vscode/
